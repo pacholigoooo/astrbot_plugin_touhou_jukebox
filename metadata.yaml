@@ -2,8 +2,9 @@ name: astrbot_plugin_touhou_jukebox
 display_name: 来首东方
 short_desc: 发 /来首东方 听东方曲，或用网易云分享链接点歌、听片段。
 desc: 按曲名、社团、原作和风格推荐东方音乐，同群自动避开最近曲目。支持网易云单曲及手机短链、OneBot 音乐卡片、QQ 和 Telegram 聊天内试听。
-version: 1.1.1
+version: 1.1.2
 author: pachi
 repo: https://github.com/pacholigoooo/astrbot_plugin_touhou_jukebox
 tags: [东方Project, 音乐, 点歌]
+support_platforms: [qq_official, qq_official_webhook, aiocqhttp, telegram, webchat]
 astrbot_version: ">=4.26.0,<5"
