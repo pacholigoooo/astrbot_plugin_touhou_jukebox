@@ -1,0 +1,109 @@
+[
+  {
+    "title": "華鳥風月",
+    "artist": "幽闭星光",
+    "kind": "arrange",
+    "genres": ["人声"],
+    "aliases": ["华鸟风月", "花鸟风月"],
+    "listen_url": "https://www.bilibili.com/video/BV1HK411L7Yh/",
+    "netease_id": "28547513",
+    "source_url": "https://www.yuuhei-satellite.jp/712",
+    "original": ["六十年目の東方裁判 ～ Fate of Sixty Years"]
+  },
+  {
+    "title": "繁花艳丽 终或飘零",
+    "artist": "幽闭星光",
+    "kind": "arrange",
+    "genres": ["人声"],
+    "aliases": ["色は匂へど 散りぬるを", "色は匂へど散りぬるを", "繁花艳丽终或飘零"],
+    "listen_url": "https://www.bilibili.com/video/BV1zVFxeFEhK/",
+    "source_url": "https://www.yuuhei-satellite.jp/wp/310",
+    "original": ["神々が恋した幻想郷"]
+  },
+  {
+    "title": "ヒトリシズカ",
+    "artist": "幽闭星光",
+    "kind": "arrange",
+    "genres": ["人声"],
+    "aliases": ["一人静"],
+    "listen_url": "https://www.bilibili.com/video/BV1vU411d7tA/",
+    "netease_id": "26457750",
+    "source_url": "https://www.yuuhei-satellite.jp/4865",
+    "original": ["妖魔夜行"]
+  },
+  {
+    "title": "孤独月（with Marcia）",
+    "artist": "幽闭星光",
+    "kind": "arrange",
+    "genres": ["人声"],
+    "aliases": ["孤独月", "孤独之月"],
+    "listen_url": "https://www.bilibili.com/video/BV1c34y137Z9/",
+    "source_url": "https://www.yuuhei-satellite.jp/18391",
+    "original": ["U.N.オーエンは彼女なのか？"]
+  },
+  {
+    "title": "零れ桜（Marcia Cover Version）",
+    "artist": "幽闭星光",
+    "kind": "arrange",
+    "genres": ["人声"],
+    "aliases": ["零れ桜", "零落之樱"],
+    "listen_url": "https://www.bilibili.com/video/BV1uV411b79T/",
+    "netease_id": "1901070008",
+    "source_url": "https://www.yuuhei-satellite.jp/18391",
+    "original": ["幽雅に咲かせ、墨染の桜 ～ Border of Life"]
+  },
+  {
+    "title": "濡れた髪に触れられた時（with Marcia）",
+    "artist": "幽闭星光",
+    "kind": "arrange",
+    "genres": ["人声"],
+    "aliases": ["濡れた髪に触れられた時"],
+    "listen_url": "https://www.bilibili.com/video/BV1RC4y1j7eK/",
+    "source_url": "https://www.yuuhei-satellite.jp/18402",
+    "original": ["万年置き傘にご注意を"]
+  },
+  {
+    "title": "うつり往く悠久の園",
+    "artist": "幽闭星光",
+    "kind": "arrange",
+    "genres": ["人声"],
+    "aliases": ["流转消逝的悠久乐园"],
+    "listen_url": "https://www.bilibili.com/video/BV1Wb5EzjEho/",
+    "netease_id": "2709419330",
+    "source_url": "https://www.yuuhei-satellite.jp/20196",
+    "original": ["上海紅茶館 ～ Chinese Tea", "明治十七年の上海アリス"]
+  },
+  {
+    "title": "破滅への導き",
+    "artist": "幽闭星光",
+    "kind": "arrange",
+    "genres": ["人声"],
+    "aliases": [],
+    "listen_url": "https://www.bilibili.com/video/BV17C4y1Q7Ci/",
+    "netease_id": "2115805772",
+    "source_url": "https://www.yuuhei-satellite.jp/19407",
+    "original": ["幽雅に咲かせ、墨染の桜 ～ Border of Life"]
+  },
+  {
+    "title": "甘く鋭い棘",
+    "artist": "幽闭星光",
+    "kind": "arrange",
+    "genres": ["人声"],
+    "aliases": [],
+    "listen_url": "https://www.bilibili.com/video/BV1YU4y1w7Mc/",
+    "netease_id": "1901071973",
+    "source_url": "https://www.yuuhei-satellite.jp/17521",
+    "original": ["廃れゆく産業遺構"]
+  },
+  {
+    "title": "Little Ringo (BAND arrange ver.)",
+    "artist": "幽闭星光",
+    "kind": "arrange",
+    "genres": ["人声", "乐队"],
+    "aliases": ["Little Ringo"],
+    "listen_url": "https://www.bilibili.com/video/BV14p4y1W7Fc/",
+    "netease_id": "1901069994",
+    "source_url": "https://www.yuuhei-satellite.jp/wp/15389",
+    "original": ["Bad Apple!!"]
+  }
+]

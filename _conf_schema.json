@@ -1,0 +1,14 @@
+{
+  "qq_link_domains": {
+    "description": "QQ 官方机器人已报备的播放域名",
+    "type": "list",
+    "default": [],
+    "hint": "例如 music.163.com 或 www.bilibili.com，每项填一个已在 QQ 开放平台配置的完整域名。"
+  },
+  "onebot_music_card": {
+    "description": "OneBot QQ 发送网易云音乐卡片",
+    "type": "bool",
+    "default": true,
+    "hint": "使用网易云版本时优先发送音乐卡片。关闭后改发曲目信息和网易云单曲链接。"
+  }
+}
